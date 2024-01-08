@@ -1,0 +1,6 @@
+packaging
+torch==2.1.2
+mmengine>=0.10.1
+lightning==2.1.3
+causal-conv1d>=1.1.0
+mamba-ssm @ git+https://github.com/state-spaces/mamba.git@main#egg=mamba-ssm
